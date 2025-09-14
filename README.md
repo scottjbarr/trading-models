@@ -5,6 +5,8 @@ Trading models for Rust.
 These are based on some internal backtesting and algo systems I make use of, so they may not be
 of general use to most people.
 
+[![Crates.io](https://img.shields.io/crates/v/trading-models.svg)](https://crates.io/crates/trading-models)
+
 ## Test
 
 ```
