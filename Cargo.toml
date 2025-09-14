@@ -1,0 +1,11 @@
+[package]
+name = "trading-models"
+version = "0.1.0"
+edition = "2021"
+description = "A Rust crate for trading models"
+license = "MIT"
+repository = "https://github.com/scottjbarr/trading-models"
+keywords = ["trading", "finance", "models"]
+categories = ["finance"]
+
+[dependencies]
